@@ -29020,3 +29020,7 @@ html.ios {
 *******************************/
 body {
   background: #f22525; }
+
+.column {
+  background: white;
+  margin: 10px; }
